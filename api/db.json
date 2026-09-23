@@ -1,0 +1,9 @@
+{
+  "vehicles": [
+    { "id": "1", "plate": "KLM482", "brand": "Chevrolet", "model": "NHR", "year": 2021, "mileageKm": 84210, "status": "active" },
+    { "id": "2", "plate": "TRS915", "brand": "Renault", "model": "Kangoo", "year": 2020, "mileageKm": 121400, "status": "in_shop" },
+    { "id": "3", "plate": "GHU307", "brand": "Toyota", "model": "Hilux", "year": 2023, "mileageKm": 30550, "status": "active" },
+    { "id": "4", "plate": "BPX660", "brand": "JAC", "model": "X200", "year": 2019, "mileageKm": 198000, "status": "out_of_service" }
+  ],
+  "services": []
+}
